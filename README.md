@@ -1,3 +1,4 @@
+https://i.pinimg.com/736x/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg
 # 💫 About Me:
 "Hi there! I'm  Rayhona, a passionate student of programming. I'm <br>currently learning python and exploring different areas of software <br>development. You can find my learning journey and projects here."
 
