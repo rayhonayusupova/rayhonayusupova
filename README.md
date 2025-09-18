@@ -1,4 +1,4 @@
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/27b9ded1-1580-4b75-8eaa-34fc733f861a" />
+                                                                                    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/38268c4d-63f6-479b-8d5c-47779371c0ee" />
 
 # 💫 About Me:
 "Hi there! I'm  Rayhona, a passionate student of programming. I'm <br>currently learning python and exploring different areas of software <br>development. You can find my learning journey and projects here."
