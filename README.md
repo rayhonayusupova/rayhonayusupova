@@ -1,4 +1,5 @@
-https://i.pinimg.com/736x/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/9059d6ea-0844-49b6-98a5-769e3693c275" />
+
 # 💫 About Me:
 "Hi there! I'm  Rayhona, a passionate student of programming. I'm <br>currently learning python and exploring different areas of software <br>development. You can find my learning journey and projects here."
 
