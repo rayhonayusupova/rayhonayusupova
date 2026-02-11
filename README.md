@@ -45,14 +45,6 @@ Backend API for managing car data.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhonayusupova&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhonayusupova&layout=compact)
-
----
-
 ## 🎯 Current Goals
 
 - Improve backend architecture skills  
@@ -64,9 +56,9 @@ Backend API for managing car data.
 
 ## 📫 Contact Me
 
-- Telegram: @yourusername  
-- Email: your.email@example.com  
-- LinkedIn: (add link here)
+- Telegram: @rayhon_8240  
+- Email: yusupovar686@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rayhona-yusupova-143840354/
 
 ---
 
