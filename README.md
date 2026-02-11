@@ -1,25 +1,73 @@
-# 💫 About Me:
-"Hi there! I'm  Rayhona, a passionate student of programming. I'm <br>currently learning python and exploring different areas of software <br>development. You can find my learning journey and projects here."
+# 👩‍💻 Rayhona Yusupova  
+### Backend (Python) Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayhon_8240)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusupovar686@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=rayhonayusupova&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhonayusupova&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rayhonayusupova&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rayhonayusupova&limit=5&theme=default&combine_all_yearly_contributions=true)
+Hi! I am a passionate Python backend developer focused on building REST APIs and web applications.  
+I enjoy solving real-world problems through clean and scalable code.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rayhonayusupova&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Tech Stack
+
+- **Languages:** Python  
+- **Frameworks:** Flask / Django  
+- **Database:** SQLite, PostgreSQL  
+- **Tools:** Git, GitHub, Postman  
+- **Concepts:** REST API, CRUD, Authentication, MVC Architecture  
+
+---
+
+## 📌 Featured Projects
+
+### 📝 ToDo API
+RESTful API for task management system.
+
+**Features:**
+- Create, update, delete tasks
+- User authentication
+- Database integration
+- JSON responses
+
+**Tech:** Python, Flask, SQLite  
+🔗 Repository: https://github.com/rayhonayusupova/ToDoAPI  
+
+---
+
+### 🚗 Car API
+Backend API for managing car data.
+
+**Features:**
+- CRUD operations
+- Database models
+- Structured API endpoints
+
+**Tech:** Python, Flask/Django, SQL  
+🔗 Repository: https://github.com/rayhonayusupova/CarAPI  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhonayusupova&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhonayusupova&layout=compact)
+
+---
+
+## 🎯 Current Goals
+
+- Improve backend architecture skills  
+- Learn advanced Django  
+- Work on full-stack projects  
+- Contribute to open-source  
+
+---
+
+## 📫 Contact Me
+
+- Telegram: @yourusername  
+- Email: your.email@example.com  
+- LinkedIn: (add link here)
+
+---
+
+⭐ Always open to internship and junior backend opportunities.
